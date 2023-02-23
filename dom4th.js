@@ -7,7 +7,7 @@ console.log(items[2]);
 
 items[2].style.backgroundColor='Green';
 //items[2].textContent='Hello';   
-items[2].textContent='kiranchavan';
+//items[2].textContent='kiranchavan'; => just for trail
 
 ///items.style.fontWeight='boldcolor';  => it is commimg error
 
